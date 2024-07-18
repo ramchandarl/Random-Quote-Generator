@@ -1,7 +1,7 @@
 # random-quote-generator
 ### Treehouse Techdegree Project #1 - Random Quote Generator
 
-In this project, you'll create an app that displays random famous quotes each time a button is clicked. You can display a quote from a famous athlete, politician, or historical figure:
+In this project, you will create an app that displays random famous quotes each time a button is clicked. You can display a quote from a famous athlete, politician, or historical figure:
 
 "The only thing we have to fear is fear itself." — Franklin Delano Roosevelt.
 
